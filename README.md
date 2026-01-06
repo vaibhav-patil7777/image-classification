@@ -8,7 +8,7 @@ Table of Contents :bookmark_tabs:
 - [Steps to Use the Application](#steps-to-Use-the-application)
 - [Model Used](#model-used)
 - [Installation](#installation)
-- [Code and Resources Used](#code-and-resources-used)
+-
 
 ## Overview
 A simple web demo with minimal framework using PyTorch and Streamlit to showcase an image classification model
@@ -51,6 +51,3 @@ ResNet-101 is a convolutional neural network that is 101 layers deep. You can lo
 pip install -r requirements.txt
 ```
 
-## Code and Resources Used
-- Python: Version 3.7.4
-- Packages: PIL, torchvision, torch, streamlit
